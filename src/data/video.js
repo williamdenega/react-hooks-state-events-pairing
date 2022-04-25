@@ -9,13 +9,18 @@ const video = {
   comments: [
     {
       id: 1,
-      user: "duanebot",
+      user: "duaneot",
       comment: "first!",
     },
     {
       id: 2,
       user: "gaeron",
       comment: "What a great tutorial!",
+    },
+    {
+      id: 3,
+      user: "SIR lancelot",
+      comment: "What a terrible tutorial!",
     },
   ],
 };
